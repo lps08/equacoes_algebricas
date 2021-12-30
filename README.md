@@ -1,2 +1,2 @@
 # equacoes_algebricas
-  Resolução de atividades com implementaaçõ de algoritmos de equações algébricas.
+  Resolução de atividades com implementação de algoritmos de equações algébricas.
